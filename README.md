@@ -1,4 +1,4 @@
-# UpworkIQ Chrome Extension
+# Upwork IQ Chrome Extension
 
 AI-powered job analysis tool that helps freelancers identify the best opportunities and avoid problem clients on Upwork.
 
